@@ -1,0 +1,23 @@
+.myModal{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  font-family: system-ui;
+  display: none;
+  background: rgb(0,0,0, 0.5);
+}
+
+.modalContent{
+  background: white;
+  padding: 17px 15px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+.myModal.active{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

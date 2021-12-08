@@ -1,0 +1,10 @@
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.home ol li{
+  font-weight: 400;
+  font-family: system-ui;
+}
