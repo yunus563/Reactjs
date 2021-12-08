@@ -14,14 +14,14 @@ const Home = () => {
         <div>
           <ol><h3>Reactjs</h3>
             <li>UseContext</li>
-            <li>React-router-dom</li>
+            <li>React-router-dom v6</li>
             <li>API</li>
             <li>useFetch</li>
             <li>Components</li>
             <li>Hook</li>
             <li>Authorization</li>
-            <li>With LocaleStorage</li>
-            <li>my-UI Framework</li>
+            <li>LocaleStorage</li>
+            <li>My-UI Framework</li>
             <li>Realization components</li>
             <li>react-transition-group</li>
             <li>Filtering</li>
